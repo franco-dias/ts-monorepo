@@ -1,0 +1,4 @@
+{
+    "nxConsole.generateAiAgentRules": true,
+    "typescript.tsserver.maxTsServerMemory": 8192
+}
